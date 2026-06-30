@@ -12,7 +12,7 @@ Hi, I am Sanrose Bhetuwal<br>A Software/DevOps Engineer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Sanrose-Bhets&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Sanrose-Bhets&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sanrose-Bhets&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=htmls)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sanrose-Bhets&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sanrose-Bhets&theme=radical&no-frame=false&no-bg=true&margin-w=4)
